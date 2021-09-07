@@ -1,0 +1,17 @@
+C:\Workspace\test\c#\RabbitMqQonsumer\RabbitMqQonsumer\bin\Debug\net5.0\RabbitMqQonsumer.exe
+C:\Workspace\test\c#\RabbitMqQonsumer\RabbitMqQonsumer\bin\Debug\net5.0\RabbitMqQonsumer.deps.json
+C:\Workspace\test\c#\RabbitMqQonsumer\RabbitMqQonsumer\bin\Debug\net5.0\RabbitMqQonsumer.runtimeconfig.json
+C:\Workspace\test\c#\RabbitMqQonsumer\RabbitMqQonsumer\bin\Debug\net5.0\RabbitMqQonsumer.runtimeconfig.dev.json
+C:\Workspace\test\c#\RabbitMqQonsumer\RabbitMqQonsumer\bin\Debug\net5.0\RabbitMqQonsumer.dll
+C:\Workspace\test\c#\RabbitMqQonsumer\RabbitMqQonsumer\bin\Debug\net5.0\ref\RabbitMqQonsumer.dll
+C:\Workspace\test\c#\RabbitMqQonsumer\RabbitMqQonsumer\bin\Debug\net5.0\RabbitMqQonsumer.pdb
+C:\Workspace\test\c#\RabbitMqQonsumer\RabbitMqQonsumer\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Workspace\test\c#\RabbitMqQonsumer\RabbitMqQonsumer\obj\Debug\net5.0\RabbitMqQonsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\test\c#\RabbitMqQonsumer\RabbitMqQonsumer\obj\Debug\net5.0\RabbitMqQonsumer.AssemblyInfoInputs.cache
+C:\Workspace\test\c#\RabbitMqQonsumer\RabbitMqQonsumer\obj\Debug\net5.0\RabbitMqQonsumer.AssemblyInfo.cs
+C:\Workspace\test\c#\RabbitMqQonsumer\RabbitMqQonsumer\obj\Debug\net5.0\RabbitMqQonsumer.csproj.CoreCompileInputs.cache
+C:\Workspace\test\c#\RabbitMqQonsumer\RabbitMqQonsumer\obj\Debug\net5.0\RabbitMqQonsumer.csproj.CopyComplete
+C:\Workspace\test\c#\RabbitMqQonsumer\RabbitMqQonsumer\obj\Debug\net5.0\RabbitMqQonsumer.dll
+C:\Workspace\test\c#\RabbitMqQonsumer\RabbitMqQonsumer\obj\Debug\net5.0\ref\RabbitMqQonsumer.dll
+C:\Workspace\test\c#\RabbitMqQonsumer\RabbitMqQonsumer\obj\Debug\net5.0\RabbitMqQonsumer.pdb
+C:\Workspace\test\c#\RabbitMqQonsumer\RabbitMqQonsumer\obj\Debug\net5.0\RabbitMqQonsumer.genruntimeconfig.cache
